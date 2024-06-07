@@ -1,4 +1,4 @@
-👋 Hello! I'm **Nailton Gomes**, a **Lawyer 📚 | Fullstack Developer 💻 | Entrepreneur 🚀** based in Brazil.
+👋 Hello! I'm **Nailton Gomes**, a **Lawyer 📚 | Fullstack Developer 💻 | Entrepreneur** 🚀 based in Brazil. I'm currently pursuing a Master's degree in Production Engineering with a focus on Lean Law Firm, aiming to integrate lean principles into legal practices to enhance efficiency and productivity.
 
 ---
 
